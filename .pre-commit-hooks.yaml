@@ -1,0 +1,6 @@
+-   id: pretty-json
+    name: JSON
+    description: Fix JSON.
+    entry: pretty-json
+    language: python
+    types: [json]
