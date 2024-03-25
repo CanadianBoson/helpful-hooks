@@ -1,6 +1,6 @@
 -   id: pretty-json
-    name: JSON
-    description: Fix JSON.
+    name: pretty-json
+    description: Format JSONs and keep small structs on a single line.
     entry: pretty-json
     language: python
     types: [json]
