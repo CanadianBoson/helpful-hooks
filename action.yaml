@@ -1,5 +1,5 @@
-name: pre-commit
-description: run pre-commit
+name: helpful-hooks
+description: run helpful-hooks
 inputs:
   extra_args:
     description: options to pass to pre-commit run
